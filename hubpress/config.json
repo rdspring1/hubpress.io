@@ -4,7 +4,16 @@
     "repositoryName": "rdspring1.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Ryan Spring Blog",
+    "description": "I am Ryan Spring, a PhD student at Rice University working on Deep Learning, Locality Sensitive Hashing, and other large-scale machine learning algorithms."
+  },
+  "socialnetwork": {
+    "email": "rdspring1@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/rdspring1",
+    "github": ""
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
