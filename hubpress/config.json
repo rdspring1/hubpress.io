@@ -5,8 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "Ryan Spring Blog",
-    "description": "I am Ryan Spring, a PhD student at Rice University working on Deep Learning, Locality Sensitive Hashing, and other large-scale machine learning algorithms."
+    "title": "Ryan Spring blog",
+    "description": "I am a PhD student at Rice University working on Deep Learning, Locality Sensitive Hashing, and other large-scale machine learning algorithms."
   },
   "socialnetwork": {
     "email": "rdspring1@gmail.com",
